@@ -7,7 +7,7 @@ on:
       repository:
         description: "Git repository URL"
         required: true
-        default: "https://github.com/hi3u0303/My-Call"
+        default: "https://github.com/muhammadawaisnoul/More-PDF"
       branchName:
         description: "Git branch name [Optional]"
         required: false
